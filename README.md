@@ -2,6 +2,9 @@
 
 This is a really awesome website.
 
-Now editing on update-readme branch.
+
 
 Updated locally.
+=======
+Updates made on master on GIthub before rebase
+>>>>>>> 497c88b8f16873fecd9a3a874edc6a8c6d0f26cb
